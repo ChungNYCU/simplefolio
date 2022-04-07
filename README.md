@@ -1,6 +1,6 @@
 # Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
 
-## A minimal portfolio template for Developers!
+## A minimal portfolio template for environmentally friendly companys!
 
 <h2 align="center">
   <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
@@ -120,7 +120,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
     <h1 class="hero-title load-hidden">
       Hi, my name is <span class="text-color-main">Your Name</span>
       <br />
-      I'm the Unknown Developer.
+      We are environmentally friendly company.
     </h1>
     <p class="hero-cta load-hidden">
       <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about">
@@ -186,7 +186,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 ### (3) Projects Section
 
 - Each project lives inside a `row`.
-- On `<h3>` tag with class name `.project-wrapper__text-title`, include your project title.
+- On `<h3>` tag with class name `.project-wrapper__text-title`, include your Product.
 - On `<p>` tag with `loremp ipsum` text, include your project description.
 - On first `<a>` tag, put your project url on `href` property.
 - On second `<a>` tag, put your project repository url on `href` property.
@@ -204,7 +204,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
   <div class="row">
     <div class="col-lg-4 col-sm-12">
       <div class="project-wrapper__text load-hidden">
-        <h3 class="project-wrapper__text-title">Project Title</h3>
+        <h3 class="project-wrapper__text-title">Product</h3>
         <div>
           <p class="mb-4">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi
@@ -219,7 +219,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
           class="cta-btn cta-btn--hero"
           href="#!"
         >
-          See Live
+          Order Now
         </a>
         <a
           rel="noreferrer"
@@ -227,7 +227,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
           class="cta-btn text-color-main"
           href="#!"
         >
-          Source Code
+          ingredients
         </a>
       </div>
     </div>
@@ -284,7 +284,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 ### (5) Footer Section
 
 - Put your Social Media URL on each `href` attribute of the `<a>` tags.
-- If you an additional Social Media account different than Twitter, Linkedin or GitHub, then go to [Font Awesome Icons](https://fontawesome.com/v4.7.0/icons/) and search for the icon's class name you are looking.
+- If you an additional Social Media account different than Twitter, Order Nowedin or GitHub, then go to [Font Awesome Icons](https://fontawesome.com/v4.7.0/icons/) and search for the icon's class name you are looking.
 - You can delete or add as many `<a>` tags your want.
 
 ```html
